@@ -45,7 +45,7 @@ Suppose you want to retrieve information about the character with the ID `DBL51-
 
 ```bash
 python db_legends.py
-Enter the character ID to find (e.g., DBL51-03U): DBL51-03U
+Enter the character ID to find (e.g., DBL51-03U): DBL44-01S
 ```
 
 The script will then display the character's information:
