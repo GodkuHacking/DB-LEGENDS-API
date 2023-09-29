@@ -7,6 +7,13 @@ Welcome to the DB Legends Python module! This module allows you to access and re
 
 ## Installation
 
+
+# OR DOWNLOAD THE MODULE:
+
+```bash
+pip install db-legends-api==1.83.4
+```
+
 1. Clone the repository:
 
    ```bash
